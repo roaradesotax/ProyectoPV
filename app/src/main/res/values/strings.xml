@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login_Rodrigo</string>
+    <string name="facebook_app_id">433449691022275</string>
+    <string name="fb_login_protocol_scheme">fb433449691022275</string>
+    <string name="valLoginEmail">INGRESAR CON CORREO</string>
+    <string name="valFacebook">INGRESAR CON FACEBOOK</string>
+    <string name="valLogout">CERRAR SESION</string>
+
+</resources>

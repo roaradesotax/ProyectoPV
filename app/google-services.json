@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091478492282",
+    "firebase_url": "https://loginauthentication-aee60.firebaseio.com",
+    "project_id": "loginauthentication-aee60",
+    "storage_bucket": "loginauthentication-aee60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091478492282:android:4b780295a0be5b58e917c3",
+        "android_client_info": {
+          "package_name": "com.example.login_rodrigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091478492282-o3fe54tndjvr5o3qu61qm9lu65rlqmoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnYCyqsqaRubBTP71YwpKz10bKYXVpPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091478492282-o3fe54tndjvr5o3qu61qm9lu65rlqmoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
